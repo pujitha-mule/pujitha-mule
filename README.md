@@ -45,6 +45,6 @@ Computer Science undergraduate passionate about building scalable backend system
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/pujithamule
+- LinkedIn: https://www.linkedin.com/in/pujitha-mule-125790254/
+- GitHub: https://github.com/pujitha-mule
 - Email: pujithamule06@gmail.com
