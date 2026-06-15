@@ -78,6 +78,6 @@ Built a monitoring solution for tracking API health, response times, and system 
 
 LinkedIn: www.linkedin.com/in/pujitha-mule-125790254
 
-GitHub: github.com/pujitha-mule
+GitHub: [github.com/pujitha-mule](https://github.com/pujitha-mule)
 
 Email: pujithamule06@gmail.com
