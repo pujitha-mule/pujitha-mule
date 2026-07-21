@@ -95,8 +95,8 @@ Designed REST APIs with authentication, caching, database integration, and backe
 
 LinkedIn: www.linkedin.com/in/pujitha-mule-125790254
 
-GitHub: github.com/pujitha-mule
+GitHub: [github.com/pujitha-mule](https://github.com/pujitha-mule)
 
-Portfolio: pujitha-portfolio-smoky.vercel.app
+Portfolio: [pujitha-portfolio-smoky.vercel.app](https://pujitha-portfolio-smoky.vercel.app/)
 
 Email: pujithamule06@gmail.com
