@@ -1,85 +1,102 @@
-# Pujitha Mule
+# Hi, I'm Pujitha Mule 👋
 
-Computer Science undergraduate with a strong interest in backend development, software engineering, and building practical technology solutions. I enjoy working with Java, designing APIs, solving algorithmic problems, and learning how large-scale systems operate behind the scenes.
+Computer Science graduate (2026) with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and LLM-powered application development**.
 
-Currently focused on backend engineering, cloud technologies, and AI-powered applications while continuously improving my problem-solving and system design skills.
+I enjoy building practical AI applications using **Python, LangChain, RAG, LLM APIs, vector databases, and FastAPI**. My work includes knowledge retrieval systems, document intelligence applications, AI-powered research workflows, and API-based AI solutions.
 
-## Technical Skills
+Currently focused on strengthening my skills in **Generative AI, Retrieval-Augmented Generation (RAG), LLM application development, AI agents, prompt engineering, and cloud-based AI systems** while continuously improving my problem-solving and software engineering fundamentals.
 
-### Languages
-- Java
+## 🛠️ Technical Skills
+
+### AI / Generative AI
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Embeddings & Semantic Search
+- OpenAI API
+- Gemini API
+
+### Programming Languages
 - Python
+- Java
 - SQL
 - JavaScript
 
-### Backend Development
-- Spring Boot
-- Flask
+### AI Backend & APIs
+- FastAPI
 - REST APIs
-- Authentication & Authorization
+- Flask
+- Spring Boot
+- Node.js
 
-### Databases
+### Vector Databases & Databases
+- FAISS
+- ChromaDB
 - MySQL
 - MongoDB
 
-### Cloud & Tools
-- AWS
+### Cloud & Development Tools
+- AWS (EC2, S3, IAM)
 - Docker
 - Git
 - GitHub
+- Postman
 
-### Frontend
-- React
+## 🎯 Areas of Interest
 
-## Areas of Interest
-
-- Backend Development
-- Software Engineering
-- System Design
-- Cloud Computing
-- Data Analytics
+- Artificial Intelligence & Machine Learning
 - Generative AI
-- Real-Time Applications
-- Data Structures and Algorithms
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & LLM Applications
+- Natural Language Processing
+- Semantic Search & Vector Databases
+- AI Backend Engineering
+- Cloud-Based AI Applications
+- Data Structures & Algorithms
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Enterprise Knowledge Assistant
-Built a Retrieval-Augmented Generation (RAG) system that enables users to retrieve and interact with organizational knowledge efficiently.
+### 🔎 RAG-Based Knowledge Base Search Engine
+Built a **Retrieval-Augmented Generation (RAG)** application using Python, LangChain, FAISS, and Gemini API for semantic document retrieval and context-aware question answering.
 
-### AI Sales Assistant
-Developed an AI-powered assistant designed to automate workflows and improve customer engagement.
+### 📚 LLM-Powered Research Assistant
+Developed an LLM-powered research assistant using **Python, LangChain, OpenAI API, and FAISS** to process research documents and dynamically route queries between document retrieval and direct LLM generation.
 
-### Real-Time Collaborative Coding Platform
-Created a collaborative coding environment with real-time synchronization for multiple users.
+### 📄 Generative AI Document Intelligence System
+Built a **FastAPI-based Generative AI application** for extracting structured information from PDF documents using LLM APIs, with structured JSON responses and Docker-based deployment.
 
-### Backend API System
-Designed and developed scalable REST APIs with authentication, caching, and database integration.
+### 🧠 Enterprise Knowledge Assistant
+Developed an AI-powered knowledge retrieval system using **RAG and semantic search** to enable users to retrieve and interact with organizational knowledge efficiently.
 
-### API Performance Monitoring Dashboard
-Built a monitoring solution for tracking API health, response times, and system performance metrics.
+### ⚙️ Backend API System
+Designed REST APIs with authentication, caching, database integration, and backend validation using **Java and Spring Boot**.
 
-## Achievements
+## 🏆 Achievements
 
 - AWS Certified Cloud Practitioner
-- Co-Author of an IEEE Conference Publication
-- Participant in the Incedo AI Hackathon
-- Solved 250+ Data Structures and Algorithms problems
+- Co-Author of an IEEE Conference Publication on Digital Twin Technology
+- Participated in the Incedo AI Hackathon and developed an AI-driven solution prototype
+- Solved 250+ Data Structures & Algorithms problems across coding platforms
 
-## Current Focus
+## 📚 Current Focus
 
-- Advanced Spring Boot
-- Distributed Systems
-- Scalable Backend Architectures
-- AI-Powered Applications
-- System Design
+- Generative AI & LLM Application Development
+- LangChain & RAG Pipelines
+- AI Agents & Tool-Calling Workflows
+- Vector Databases & Semantic Search
+- Prompt Engineering
+- FastAPI for AI Applications
+- Cloud Deployment of AI Applications
+- LLM Evaluation & Optimization
 
-## Connect
+## 🤝 Connect With Me
 
 LinkedIn: www.linkedin.com/in/pujitha-mule-125790254
 
-GitHub: [github.com/pujitha-mule](https://github.com/pujitha-mule)
+GitHub: github.com/pujitha-mule
 
-Portfolio: https://pujitha-portfolio-smoky.vercel.app
+Portfolio: pujitha-portfolio-smoky.vercel.app
 
 Email: pujithamule06@gmail.com
