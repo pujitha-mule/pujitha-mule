@@ -1,102 +1,116 @@
-# Hi, I'm Pujitha Mule 👋
+# Hi, I'm Pujitha Mule
 
-Computer Science graduate (2026) with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and LLM-powered application development**.
+Computer Science graduate (2026) interested in **Data Engineering, Python, SQL, and Cloud Technologies**.
 
-I enjoy building practical AI applications using **Python, LangChain, RAG, LLM APIs, vector databases, and FastAPI**. My work includes knowledge retrieval systems, document intelligence applications, AI-powered research workflows, and API-based AI solutions.
+I enjoy working with data, building small projects, cleaning and processing data, writing SQL queries, and creating APIs. I have worked on projects involving **ETL, data validation, databases, and data processing**.
 
-Currently focused on strengthening my skills in **Generative AI, Retrieval-Augmented Generation (RAG), LLM application development, AI agents, prompt engineering, and cloud-based AI systems** while continuously improving my problem-solving and software engineering fundamentals.
+Currently, I am improving my skills in **Python, SQL, ETL, databases, AWS, Docker, and data engineering**.
 
-## 🛠️ Technical Skills
+## Skills
 
-### AI / Generative AI
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Embeddings & Semantic Search
-- OpenAI API
-- Gemini API
-
-### Programming Languages
+### Programming
 - Python
-- Java
 - SQL
+- Java
 - JavaScript
 
-### AI Backend & APIs
-- FastAPI
-- REST APIs
-- Flask
-- Spring Boot
-- Node.js
+### Data
+- Pandas
+- NumPy
+- ETL
+- Data Cleaning
+- Data Validation
+- Data Processing
+- Data Analysis
+- Matplotlib
 
-### Vector Databases & Databases
-- FAISS
-- ChromaDB
+### Databases
 - MySQL
+- PostgreSQL
+- SQLite
 - MongoDB
 
-### Cloud & Development Tools
-- AWS (EC2, S3, IAM)
+### Backend
+- Flask
+- FastAPI
+- Spring Boot
+- REST APIs
+
+### Cloud & Tools
+- AWS
 - Docker
 - Git
 - GitHub
 - Postman
+- Jupyter
 
-## 🎯 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
+### AI
 - Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & LLM Applications
-- Natural Language Processing
-- Semantic Search & Vector Databases
-- AI Backend Engineering
-- Cloud-Based AI Applications
-- Data Structures & Algorithms
+- RAG
+- LangChain
+- LLM APIs
+- FAISS
 
-## 🚀 Featured Projects
+## Projects
 
-### 🔎 RAG-Based Knowledge Base Search Engine
-Built a **Retrieval-Augmented Generation (RAG)** application using Python, LangChain, FAISS, and Gemini API for semantic document retrieval and context-aware question answering.
+### Retail Sales ETL Pipeline
 
-### 📚 LLM-Powered Research Assistant
-Developed an LLM-powered research assistant using **Python, LangChain, OpenAI API, and FAISS** to process research documents and dynamically route queries between document retrieval and direct LLM generation.
+A Python project that takes sales data from CSV and JSON files, cleans it, checks the data, and stores it in a SQLite database.
 
-### 📄 Generative AI Document Intelligence System
-Built a **FastAPI-based Generative AI application** for extracting structured information from PDF documents using LLM APIs, with structured JSON responses and Docker-based deployment.
+- Used Python and Pandas to process the data
+- Removed duplicate and invalid data
+- Added data checks before storing the data
+- Created a simple database structure with fact and dimension tables
+- Used SQL to get useful sales information
 
-### 🧠 Enterprise Knowledge Assistant
-Developed an AI-powered knowledge retrieval system using **RAG and semantic search** to enable users to retrieve and interact with organizational knowledge efficiently.
+### Log Ingestion & Query Pipeline
 
-### ⚙️ Backend API System
-Designed REST APIs with authentication, caching, database integration, and backend validation using **Java and Spring Boot**.
+A Flask project that receives application logs through an API and stores them in SQLite.
 
-## 🏆 Achievements
+- Created an API to receive log data
+- Added checks for invalid data
+- Stored valid logs in SQLite
+- Used SQL to find errors by service and logs by hour
+- Created a Python script to generate 300 test logs
+- Added Docker support
+
+### RAG Knowledge Base Search
+
+A Python project that allows users to search documents and get answers using an AI model.
+
+- Used Python and LangChain
+- Added document search
+- Used FAISS for storing and finding documents
+- Connected an LLM to answer questions
+
+### Backend API System
+
+Built REST APIs using Java and Spring Boot with database connection, authentication, and data validation.
+
+## Achievements
 
 - AWS Certified Cloud Practitioner
-- Co-Author of an IEEE Conference Publication on Digital Twin Technology
-- Participated in the Incedo AI Hackathon and developed an AI-driven solution prototype
-- Solved 250+ Data Structures & Algorithms problems across coding platforms
+- Co-Author of an IEEE conference paper on Digital Twin Technology
+- Solved 250+ DSA problems
+- Participated in the Incedo AI Hackathon
 
-## 📚 Current Focus
+## Currently Learning
 
-- Generative AI & LLM Application Development
-- LangChain & RAG Pipelines
-- AI Agents & Tool-Calling Workflows
-- Vector Databases & Semantic Search
-- Prompt Engineering
-- FastAPI for AI Applications
-- Cloud Deployment of AI Applications
-- LLM Evaluation & Optimization
+- Python
+- SQL
+- ETL
+- Data Engineering
+- Databases
+- AWS
+- Docker
+- Data Processing
 
-## 🤝 Connect With Me
+## Connect With Me
 
-LinkedIn: www.linkedin.com/in/pujitha-mule-125790254
+LinkedIn: https://www.linkedin.com/in/pujitha-mule-125790254
 
-GitHub: [github.com/pujitha-mule](https://github.com/pujitha-mule)
+GitHub: https://github.com/pujitha-mule
 
-Portfolio: [pujitha-portfolio-smoky.vercel.app](https://pujitha-portfolio-smoky.vercel.app/)
+Portfolio: https://pujitha-portfolio-smoky.vercel.app/
 
 Email: pujithamule06@gmail.com
